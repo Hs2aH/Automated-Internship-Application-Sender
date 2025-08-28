@@ -19,11 +19,11 @@ This Python script automates the process of sending out internship applications 
 
 The following Python libraries: pandas, smtplib, email
 
-1. A .xlsx file with your company list.
++ A .xlsx file with your company list.
 
-2. Your CV and reference letter in PDF format.
++ Your CV and reference letter in PDF format.
 
-3. A Gmail account with a 16-character App Password generated specifically for this script.
++ A Gmail account with a 16-character App Password generated specifically for this script.
 
 ### 🛠️ Setup and Configuration
 1. Generate a Gmail App Password:
